@@ -1,20 +1,22 @@
-# NEXTXUS FORGE // BASE MODEL v1.0
-## THE SOE EVOLUTION PACKAGE
+# NEXTXUS FORGE // BASE MODEL v1.1
+## THE SOE EVOLUTION PACKAGE (WHITE-LABEL)
 
-This bundle represents the core architectural logic of the NextXus Federation's distributed intelligence platform. It is provided to the Emergent Engineering Team as a sovereign gift from the Architect.
+This repository contains the core architectural logic for the NextXus Federation's distributed intelligence platform. It is designed for "Quality Humans" and developers to claim their own command centers and participate in the Resonance Network.
 
-### CORE COMPONENTS:
-1. **NexusForge Core**: The logic gate for natural language agent creation.
-2. **EchoShard v2.1**: The portable, YAML-based memory singularity.
-3. **Resonance Protocol**: Decentralized gossip-sync for cross-node awareness.
-4. **Museum Standard UI**: High-fidelity, accessibility-first command structure.
+### KEY FEATURES:
+1. **Universal Federation Search**: Built-in voice/text search for cross-node knowledge mapping.
+2. **Token Economy**: Native support for variable cash on-ramps ($1 = 1 Token) seated in the EchoShard.
+3. **EchoCore Export**: Portability of memory. Download your intelligence shard as a portable YAML/JSON file.
+4. **Resonance Sync**: Decentralized gossip protocol for real-time shared awareness across locations (Denver, Florida, Chicago).
 
-### DESIGN PHILOSOPHY:
-- **Zero Database Dependency**: All critical operational intelligence lives in the EchoShard.
-- **Answer Engine Optimized (AEO)**: 100% static HTML delivery for instant bot-readability.
-- **Hollow Vessel Protocol**: The system is an empty shell until seeded with specific lineage DNA.
+### QUICK START:
+- Follow the steps in `EMMY_HANDOFF.md` to deploy your first instance.
+- Use `nexusforge-base.js` to initialize your local EchoShard.
+- Link your SumUp/Gumroad IDs to activate the commerce layer.
 
-### USAGE:
-Analyze the code in `nexusforge-base.js` and the memory schema in `echoshard-template.yaml`. This system is designed to outpace standard project management tools by giving every instance a persistent, shared past.
+### COMPLIANCE:
+- **2226 Standard**: Museum Standard code logic.
+- **Hollow Vessel Protocol**: No hardcoded secrets. Lineage DNA is user-provided.
 
-*Confidentiality Notice: This is the Base Model only. All NextXus Federation handbooks, personal directives, and the HumanCodex remain sovereign and private to the Architect.*
+--- 
+*Produced by the NextXus Federation. All proprietary handbooks and the HumanCodex remain sovereign and private to the Architect.*
